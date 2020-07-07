@@ -47,3 +47,11 @@
     - [Maybe] Information Security
 - I want to start working on some side-projects after I finish (Or perhaps during the challenge).
 - After working with the Regular Expressions today I thought maybe I can tweet about them to help the others.
+
+### Day 2: 7th Jul 20
+
+**Today's Progress**: Completed JS Regular Expressions exercises on FreeCodeCamp.com. I'm struggling with the 'Palindrome Checker' exercise. However I finished 'Caesars Cipher' & 'Telephone Number Validator' exercises.
+
+**Thoughts:**
+- I feel more excited about the challenge.
+- I want to create a small project the next weekend (Maybe a bot).
