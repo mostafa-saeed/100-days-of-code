@@ -50,8 +50,17 @@
 
 ### Day 2: 7th Jul 20
 
-**Today's Progress**: Completed JS Regular Expressions exercises on FreeCodeCamp.com. I'm struggling with the 'Palindrome Checker' exercise. However I finished 'Caesars Cipher' & 'Telephone Number Validator' exercises.
+**Today's Progress**: Completed JS Regular Expressions exercises on FreeCodeCamp.com. I'm struggling with the 'Roman Numeral Converter' exercise. However I finished 'Caesars Cipher' & 'Telephone Number Validator' exercises.
 
 **Thoughts:**
 - I feel more excited about the challenge.
 - I want to create a small project the next weekend (Maybe a bot).
+
+### Day 3: 8th Jul 20
+
+**Today's Progress**: Finally I finished the 'Roman Numeral Converter' exercise on FreeCodeCamp.com! Also completed ES6 exercises.
+
+**Thoughts:**
+- It was really helpful to get help form others when I was stuck.
+- Also It's really a great idea to use Paper & Pen to illustrate the problem and try to divide it to small ones.
+- I'm sure my 'Converter' solution was far from being good. But at least it's working! And I'm really happy about this step :)
