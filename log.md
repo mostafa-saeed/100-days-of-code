@@ -64,3 +64,12 @@
 - It was really helpful to get help form others when I was stuck.
 - Also It's really a great idea to use Paper & Pen to illustrate the problem and try to divide it to small ones.
 - I'm sure my 'Converter' solution was far from being good. But at least it's working! And I'm really happy about this step :)
+
+### Day 4: 9th Jul 20
+
+**Today's Progress**: Spent so much time on the 'Cash Register' challenge until finally I had it working xD, Completed all Functional Programming exercise and earned the very first certificate from FreeCodeCamp.com
+
+**Thoughts:**
+- I'm so excited to finally start working with vue.js.
+- I'm not sure if that possible on FreeCodeCamp.com to complete the FrontEnd challenges in a different framework than the one they use.
+- I feel like I want to start working on real projects. However I will stick to the plan!
