@@ -1,3 +1,4 @@
+<!--
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
@@ -55,3 +56,26 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+-->
+
+# I've joined the #100DaysOfCode Challenge
+
+## Contents
+
+* [Log - click here to see my progress](log.md)
+* [Motives](#motives)
+<!-- * [About Me](#about-me)
+* [Projects](#projects) -->
+
+
+## Motives
+- **Simply because I love code**🤓: Writing code for me is just like a kid playing with lego. I feel so happy when I make something useful with code or when I solve a problem that I struggled with. So what else would fulfill this interest other than a hundred-day challenge!
+- **Not a computer science student**: I started learning code by myself as a hobby when I was a kid. Sounds cool, right? But also let me point that I was doing on my own without proper guidance or a clear path. I lack many important concepts in computer science I feel that there are so many important topics I don't know about.
+- **Long-term procrastination**🙄: I'm sure many of us suffer from procrastination too. But for me, I want to give up that time-wasting habit. I've tried to work on side-projects before but I ended up with so many uncompleted projects. So I thought that by committing to this challenge everyday I might be able to finally concentrate and finish these projects. 
+- **Social anxiety**😨: I have to admit that I feel nervous and shy when I talk to new people. So by posting every day about my progress and talking to so many other developers around the world I believe this can help me get out of my shell.
+
+
+<!-- ## About Me
+
+
+## Projects -->
