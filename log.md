@@ -73,3 +73,13 @@
 - I'm so excited to finally start working with vue.js.
 - I'm not sure if that possible on FreeCodeCamp.com to complete the FrontEnd challenges in a different framework than the one they use.
 - I feel like I want to start working on real projects. However I will stick to the plan!
+
+### Day 5: 10th Jul 20
+
+**Today's Progress**: Started working with vue.js ✨✨ and used it to complete the 'Random Quote Machine' challenge. The UI doesn't look pretty good but also not bad and it's responsive 📱. It fetches the quotes from online API then stores them in localStorage. <br>
+**Link**: [Random Quote Machine](https://codepen.io/mostafa-saeed/full/JjGZNwR)
+
+**Thoughts:**
+- I was surprised when the 'Random Quote Machine' project worked form the first time 😁😁.
+- I wrote about my motives to start the challenge [here](README.md).
+
