@@ -83,3 +83,12 @@
 - I was surprised when the 'Random Quote Machine' project worked form the first time 😁😁.
 - I wrote about my motives to start the challenge [here](README.md).
 
+### Day 6: 11th Jul 20
+
+**Today's Progress**: I completed the 'Markdown Previewer' challenge in Vue.js. But had to spend hours trying to get the tests passing. It was working but apparently, the test cases were designed for react.js. So I ended up doing a small workaround to have the tests passed! <br>
+**Link**: [Markdown Previewer](https://codepen.io/mostafa-saeed/pen/JjGZeLr)
+
+**Thoughts:**
+- The test cases failing has driven me mad today 😡😡😡
+- I found other developers had the same issue but not sure what did they do. There's an issue on GitHub here: https://github.com/freeCodeCamp/testable-projects-fcc/issues/59
+- I'm not sure if the project is really in vue.js anymore or not.
