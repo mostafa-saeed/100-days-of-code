@@ -92,3 +92,12 @@
 - The test cases failing has driven me mad today 😡😡😡
 - I found other developers had the same issue but not sure what did they do. There's an issue on GitHub here: https://github.com/freeCodeCamp/testable-projects-fcc/issues/59
 - I'm not sure if the project is really in vue.js anymore or not.
+
+
+### Day 7: 12th Jul 20
+
+**Today's Progress**: Completed the 'Drum Machine' challenge in Vue.js. The same issue as yesterday (I guess it's related to the 2 way data binding) <br>
+**Link**: [Drum Machine](https://codepen.io/mostafa-saeed/full/mdVjrVg)
+
+**Thoughts:**
+- No thoughts for today ...
