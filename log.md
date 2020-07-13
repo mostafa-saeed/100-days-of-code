@@ -101,3 +101,11 @@
 
 **Thoughts:**
 - No thoughts for today ...
+
+
+### Day 8: 13th Jul 20
+
+**Today's Progress**: Started working on the 'Calculator' project. <br>
+
+**Thoughts:**
+- I feel I wasted so much time today because of being disorganized. 😓😓
