@@ -109,3 +109,13 @@
 
 **Thoughts:**
 - I feel I wasted so much time today because of being disorganized. 😓😓
+
+
+### Day 9: 14th Jul 20
+
+**Today's Progress**: Completed the 'Calculator' project in vue.js. 🎉🎉 <br>
+**Link**: [Calculator](https://codepen.io/mostafa-saeed/details/qBbMEJJ)
+
+**Thoughts:**
+- Can't wait to get started with the 'Pomodoro Clock' project because I was planning to apply this technique while working.
+- I'm so happy I started making friends on twitter. It just feels like I'm getting over my fear!
