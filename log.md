@@ -123,12 +123,14 @@
 
 ### 15th Jul 20
 **Today's Progress**: Nothing :(
+
 **Thoughts:**
 - I had a headache almost all day and I couldn't work. So I won't count this day... 😓😓😓
 
 
 ### Day 10: 15th Jul 20
 **Today's Progress**: Started working on the 'Pomodoro Clock' project.
+
 **Thoughts:**
 - The UI is nothing but mess 🙄🙄
 - The project seems to be working but many test cases didn't pass 😜😜.
@@ -136,6 +138,15 @@
 
 ### Day 11: 16th Jul 20
 **Today's Progress**: continued working on the 'Pomodoro Clock' project. Finally, almost all the tests are passing. However, I guess I need to redesign the play/pause logic to have all of them working.
+
 **Thoughts:**
 - I want to work hard on the UI.
 - This project and the intervals made me really mad. 🤯🤯🤯
+
+### Day 12: 17th Jul 20
+**Today's Progress**: Completed the 'Pomodoro Clock' project and earned the Front End Libraries certificate from FreeCodeCamp.com.  🎉🎉🎉<br>
+**Link**: [Pomodoro Clock](https://codepen.io/mostafa-saeed/full/abdQyzd)
+
+**Thoughts:**
+- I was so excited when all the test cases finally passed!
+- I want to learn about RXJS.
