@@ -128,7 +128,7 @@
 - I had a headache almost all day and I couldn't work. So I won't count this day... 😓😓😓
 
 
-### Day 10: 15th Jul 20
+### Day 10: 16th Jul 20
 **Today's Progress**: Started working on the 'Pomodoro Clock' project.
 
 **Thoughts:**
@@ -136,17 +136,27 @@
 - The project seems to be working but many test cases didn't pass 😜😜.
 
 
-### Day 11: 16th Jul 20
+### Day 11: 17th Jul 20
 **Today's Progress**: continued working on the 'Pomodoro Clock' project. Finally, almost all the tests are passing. However, I guess I need to redesign the play/pause logic to have all of them working.
 
 **Thoughts:**
 - I want to work hard on the UI.
 - This project and the intervals made me really mad. 🤯🤯🤯
 
-### Day 12: 17th Jul 20
+### Day 12: 18th Jul 20
 **Today's Progress**: Completed the 'Pomodoro Clock' project and earned the Front End Libraries certificate from FreeCodeCamp.com.  🎉🎉🎉<br>
 **Link**: [Pomodoro Clock](https://codepen.io/mostafa-saeed/full/abdQyzd)
 
 **Thoughts:**
 - I was so excited when all the test cases finally passed!
 - I want to learn about RXJS.
+
+### Day 13: 19th Jul 20
+**Today's Progress**: Started working on the APIs and Microservices path on FreeCodeCamp. Completed the 'Timestamp' and 'Request Header Parser' microservices. <br>
+**Link**: [Timestamp Microservice](https://classy-dandelion-reminder.glitch.me/) <br>
+**Link**: [Request Header Parser Microservice](https://dear-second-potassium.glitch.me/)
+
+**Thoughts:**
+- Learnt new stuff about Express.
+- I had to use VPN to navigate 'glitch.me'.
+
