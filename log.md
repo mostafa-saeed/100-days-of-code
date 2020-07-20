@@ -160,3 +160,10 @@
 - Learnt new stuff about Express.
 - I had to use VPN to navigate 'glitch.me'.
 
+### Day 14: 20th Jul 20
+**Today's Progress**: So today I wanted to convert my 'Pomodoro Clock' project into a PWA to make it installable across multiple devices and (Thanks to service-workers) make it work offline. Maybe I can add more features for this project, Like saving the timer progress to localStorage. Allowing the user to decide how many cycles he/she wants to complete.
+**Link**: [Pomodoro Clock PWA](https://pomodoro-clock-pwa.netlify.app)
+
+**Thoughts:**
+- I'm so keen to start working on real projects 🤩🤩 But I guess I shouldn't distract myself and concentrate on only one thing.
+- It was my first time working with Netlify and it was very straight forward.
