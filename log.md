@@ -167,3 +167,12 @@
 **Thoughts:**
 - I'm so keen to start working on real projects 🤩🤩 But I guess I shouldn't distract myself and concentrate on only one thing.
 - It was my first time working with Netlify and it was very straight forward.
+
+
+### Day 15: 21st Jul 20
+**Today's Progress**: Completed the 'URL Shortener' Microservice on FreeCodeCamp.com. It was the first time for me to use Mongoose hooks. Started updating my CV it's really out of date >< <br>
+**Link**: [URL Shortener](https://amusing-empty-ostrich.glitch.me)
+
+**Thoughts:**
+- Didn't code much today... Because I spent some time with a friend and I guess I needed it.
+- I hope to finish my CV soon.
