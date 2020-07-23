@@ -176,3 +176,19 @@
 **Thoughts:**
 - Didn't code much today... Because I spent some time with a friend and I guess I needed it.
 - I hope to finish my CV soon.
+
+
+### 22nd Jul 20
+**Today's Progress**: Nothing :(
+
+**Thoughts:**
+- I'm not sure how this happened...
+
+
+### Day 16: 23rd Jul 20
+**Today's Progress**: Completed the 'Exercise Tracker' Microservice on FreeCodeCamp.com. <br>
+**Link**: [Exercise Tracker](https://longhaired-sassy-apparatus.glitch.me)
+
+**Thoughts:**
+- Finally finished my CV.
+- I feel depressed and lonely...
