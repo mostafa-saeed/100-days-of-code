@@ -192,3 +192,11 @@
 **Thoughts:**
 - Finally finished my CV.
 - I feel depressed and lonely...
+
+
+### Day 17: 24th Jul 20
+**Today's Progress**:
+- Worked on 'Pomodoro Clock' & Added saving timer progress to localStorage. Now timer progress continues even if you reload the page.
+- Completed the 'File Metadata' Microservice on FCC & earned the 'APIs and Microservices' certificate. 🎉🎉🎉
+**Link**: [Pomodoro Clock](https://pomodoro-clock-pwa.netlify.app)
+**Link**: [File Metadata Microservice](https://profuse-succinct-poison.glitch.me)
