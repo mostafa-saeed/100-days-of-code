@@ -200,3 +200,9 @@
 - Completed the 'File Metadata' Microservice on FCC & earned the 'APIs and Microservices' certificate. 🎉🎉🎉
 **Link**: [Pomodoro Clock](https://pomodoro-clock-pwa.netlify.app)
 **Link**: [File Metadata Microservice](https://profuse-succinct-poison.glitch.me)
+
+
+### Day 18: 25th Jul 20
+**Today's Progress**:
+- Completed 'Quality Assurance and Testing with Chai' challenges on FCC.
+**Link**: [Testing with Chai](https://marsh-pitch-zipper.glitch.me)
