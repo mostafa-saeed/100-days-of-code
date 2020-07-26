@@ -206,3 +206,9 @@
 **Today's Progress**:
 - Completed 'Quality Assurance and Testing with Chai' challenges on FCC.
 **Link**: [Testing with Chai](https://marsh-pitch-zipper.glitch.me)
+
+
+### Day 19: 26th Jul 20
+**Today's Progress**:
+- Completed 50% of FCC 'Advanced Node and Express' challenge. The unit tests for the project are really bad :(
+**Link**: [Advanced Node and Express](https://past-wool-titanium.glitch.me)
