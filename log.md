@@ -212,3 +212,9 @@
 **Today's Progress**:
 - Completed 50% of FCC 'Advanced Node and Express' challenge. The unit tests for the project are really bad :(
 **Link**: [Advanced Node and Express](https://past-wool-titanium.glitch.me)
+
+
+### Day 20: 27th Jul 20
+**Today's Progress**:
+- Completed all 'Advanced Node and Express' challenges on FCC. Tomorrow I'll start working on the 'Metric-Imperial Converter' Project 🚀🚀🚀.
+**Link**: [Advanced Node and Express](https://zesty-storm-dinner.glitch.me)
