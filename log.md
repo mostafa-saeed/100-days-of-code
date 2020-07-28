@@ -218,3 +218,8 @@
 **Today's Progress**:
 - Completed all 'Advanced Node and Express' challenges on FCC. Tomorrow I'll start working on the 'Metric-Imperial Converter' Project 🚀🚀🚀.
 **Link**: [Advanced Node and Express](https://zesty-storm-dinner.glitch.me)
+
+### Day 21: 28th Jul 20
+**Today's Progress**:
+- Completed 'Metric-Imperial Converter' Project on FCC 🧮🧮🧮. I liked working on test cases, and I guess I must learn more about TDD.
+**Link**: [Metric-Imperial Converter](https://universal-giddy-dollar.glitch.me)
