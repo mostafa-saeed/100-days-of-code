@@ -229,3 +229,9 @@
 **Today's Progress**:
 - Completed the 'Issue Tracker' Project on FCC.
 **Link**: [Issue Tracker](https://quark-pepper-ghoul.glitch.me)
+
+
+### Day 23: 30th Jul 20
+**Today's Progress**:
+- Completed the 'Personal Library' Project on FCC.
+**Link**: [Personal Library](https://prairie-berry-herring.glitch.me)
