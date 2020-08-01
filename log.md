@@ -235,3 +235,11 @@
 **Today's Progress**:
 - Completed the 'Personal Library' Project on FCC.
 **Link**: [Personal Library](https://prairie-berry-herring.glitch.me)
+
+### 31st Jul 20
+**Today's Progress**: Spent the day with my family.
+
+### Day 24: 1st Aug 20
+**Today's Progress**:
+- Completed the 'Sudoku Solver' Project on FCC. One more project to go 🎉🎉
+**Link**: [Sudoku Solver](https://lying-nostalgic-turn.glitch.me)
