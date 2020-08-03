@@ -243,3 +243,24 @@
 **Today's Progress**:
 - Completed the 'Sudoku Solver' Project on FCC. One more project to go 🎉🎉
 **Link**: [Sudoku Solver](https://lying-nostalgic-turn.glitch.me)
+
+### 2nd Aug 20
+**Today's Progress**: Started reading CleanCode book. However I didn't code that day so I won't count it.
+
+### Day 25: 3rd Aug 20
+**Today's Progress**:
+- Completed the 'American British Translator' Project on FCC. 🚀
+- Earned 'Quality Assurance' Certificate. 🎉🎉 <br>
+**Link**: [American British Translator](https://low-bejewled-marscapone.glitch.me) <br>
+**Link**: [Quality Assurance Certificate](https://www.freecodecamp.org/certification/mostafa-saeed/quality-assurance-v7)
+
+**Thoughts:**
+- I feel really proud of myself that I finally finished the first part of 100DaysOfCode journey. It's day 25 and I guess I'm doing well this far. 😊😊😊
+- From now on I will be working on my own. So first I need to plan & make a list of Projects I will start working on.
+- During my work on these projects I will focus on:
+    * Automated Testing
+    * Continues Integration
+    * Caching using Redis
+    * AWS
+    * Maybe some MicroServices & Message Queues 🤔🤔
+- Finally it would be really great if I could have someone to work with for the next part.
