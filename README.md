@@ -64,8 +64,8 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * [Log - click here to see my progress](log.md)
 * [Motives](#motives)
-<!-- * [About Me](#about-me)
-* [Projects](#projects) -->
+* [Projects](#projects)
+<!-- * [About Me](#about-me) -->
 
 
 ## Motives
@@ -75,7 +75,11 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 - **Social anxiety**😨: I have to admit that I feel nervous and shy when I talk to new people. So by posting every day about my progress and talking to so many other developers around the world I believe this can help me get out of my shell.
 
 
-<!-- ## About Me
+<!-- ## About Me -->
 
 
-## Projects -->
+## Projects
+- ### SocialMedia Profiles Connector
+    * This project will help you to save all your different social media usernames in one place to make you more reachable.
+    * For instance my Facebook username is `mostafa.saeed` while this username was taken by someone else on Twitter. So using this application you will have all these different usernames under a single profile.
+    * The application will also allow users to use QR-Code scans to make it even easier.

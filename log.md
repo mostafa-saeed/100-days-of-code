@@ -264,3 +264,8 @@
     * AWS
     * Maybe some MicroServices & Message Queues 🤔🤔
 - Finally it would be really great if I could have someone to work with for the next part.
+
+
+### Day 26: 4th Aug 20
+**Today's Progress**:
+- Selected my first project and started planning.
