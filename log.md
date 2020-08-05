@@ -269,3 +269,13 @@
 ### Day 26: 4th Aug 20
 **Today's Progress**:
 - Selected my first project and started planning.
+
+
+### Day 27: 5th Aug 20
+**Today's Progress**:
+- Started working the `SocialMedia Profiles Connector` project.
+    * Added eslint, mocha, chai and nodemon as development dependencies.
+    * Added `lint`, `test` and `dev` scripts to npm.
+- Created project repository on GitHub and created a `development` branch for `staging` environment.
+- Added automatic deployment to Heroku when the `development` branch gets updated. <br>
+**Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
