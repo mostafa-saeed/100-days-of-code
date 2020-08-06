@@ -279,3 +279,10 @@
 - Created project repository on GitHub and created a `development` branch for `staging` environment.
 - Added automatic deployment to Heroku when the `development` branch gets updated. <br>
 **Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
+
+
+### Day 28: 6th Aug 20
+**Today's Progress**:
+- Started working on models.
+- Added users model schema & test suite.
+- Having issues with `husky` package `pre-commit` command.
