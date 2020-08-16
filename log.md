@@ -286,3 +286,13 @@
 - Started working on models.
 - Added users model schema & test suite.
 - Having issues with `husky` package `pre-commit` command.
+
+
+### Day 29: 16th Aug 20
+**Today's Progress**:
+- Continued working on the `SocialMedia Profiles Connector` project.
+    * Separated the server logic into `start()` & `stop()` functions to make it testable.
+    * Added JWT authentication.
+    * Added some authentication-related test cases.
+- Updated resume and applied for multiple positions.
+**Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
