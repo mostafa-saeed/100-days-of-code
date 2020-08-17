@@ -295,4 +295,15 @@
     * Added JWT authentication.
     * Added some authentication-related test cases.
 - Updated resume and applied for multiple positions.
+
 **Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
+
+
+### Day 30: 17th Aug 20
+**Today's Progress**:
+- Added users API validation schema using Joi.
+- Added some users-related test cases.
+- Added register & get endpoints.
+- Deployed the project on Heroku.
+
+**Link**: [SocialMedia Profiles Connector](http://socialmedia-profiles-connector.herokuapp.com)
