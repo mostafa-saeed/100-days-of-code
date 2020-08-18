@@ -307,3 +307,13 @@
 - Deployed the project on Heroku.
 
 **Link**: [SocialMedia Profiles Connector](http://socialmedia-profiles-connector.herokuapp.com)
+
+
+### Day 31: 18th Aug 20
+**Today's Progress**:
+- Solved couple of tests on HackerRank 🤩🤩.
+- Added login endpoint & some test cases.
+- Added JWT validation function.
+- Replaced husky with 'pre-commit' and it's finally working 😭.
+
+**Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
