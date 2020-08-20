@@ -317,3 +317,11 @@
 - Replaced husky with 'pre-commit' and it's finally working 😭.
 
 **Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
+
+
+### Day 32: 19th Aug 20
+**Today's Progress**:
+- Added get platforms endpoint.
+- Added platforms services & test cases.
+
+**Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
