@@ -325,3 +325,11 @@
 - Added platforms services & test cases.
 
 **Link**: [SocialMedia Profiles Connector](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/tree/development)
+
+
+### Day 33: 20th Aug 20
+**Today's Progress**:
+- Improved controllers & services code.
+- Added the relationship between users and platforms.
+- Added 'add user platform' endpoint with its validation schema.
+- Found a typo inside a model 🙄.
