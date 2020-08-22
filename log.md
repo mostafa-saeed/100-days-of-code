@@ -333,3 +333,15 @@
 - Added the relationship between users and platforms.
 - Added 'add user platform' endpoint with its validation schema.
 - Found a typo inside a model 🙄.
+
+
+### Day 34 21st Aug 20
+**Today's Progress**:
+- Added get, add & update userPlatforms endpoints.
+- Added getting user platforms.
+- Set 'useFindAndModify' to true for mongoose options.
+- Removed some unused code.
+
+**Thoughts**:
+- The API is almost ready 🤩🤩.
+- I still need to work more on tests and add functional testing.
