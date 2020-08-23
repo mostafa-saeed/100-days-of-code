@@ -345,3 +345,8 @@
 **Thoughts**:
 - The API is almost ready 🤩🤩.
 - I still need to work more on tests and add functional testing.
+
+### Day 35 21st Aug 20
+**Today's Progress**:
+- Added test cases for userPlatforms service.
+- Deployed the project on Heroku.
