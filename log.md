@@ -347,13 +347,13 @@
 - I still need to work more on tests and add functional testing.
 
 
-### Day 35 21st Aug 20
+### Day 35 22nd Aug 20
 **Today's Progress**:
 - Added test cases for userPlatforms service.
 - Deployed the project on Heroku.
 
 
-### Day 36 22nd Aug 20
+### Day 36 24th Aug 20
 **Today's Progress**:
 - Added CI to run `npm test` on pull requests on master branch.
 - Fixed an issue with Async tests.
@@ -362,3 +362,10 @@
 - This [video](https://youtu.be/eB0nUzAI7M8) by [Fireship
 ](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) was really helpful!
 - Stuck with running tests with no MongoDB server. Tried [mongodb-memory-server](https://www.npmjs.com/package/mongodb-memory-server) But didn't work for me 😏 Then I found [MongoDB in GitHub Actions](https://github.com/marketplace/actions/mongodb-in-github-actions) which installs a mongodb server in the CI environment.
+
+
+### Day 37 27th Aug 20
+**Today's Progress**:
+- Created the first docker image 🤩🤩.
+
+**Link**: [Dockerfile](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/blob/development/Dockerfile)
