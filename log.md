@@ -369,3 +369,21 @@
 - Created the first docker image 🤩🤩.
 
 **Link**: [Dockerfile](https://github.com/mostafa-saeed/SocialMedia-Profiles-Connector/blob/development/Dockerfile)
+
+
+### Day 38 29th Aug 20
+**Today's Progress**:
+- Created `docker-compose` file for production environment.
+- Deployed the project on AWS LightSail using Docker Compose.
+- Added a github action to automatically deploy the project on the LightSail server.
+
+**Thoughts**:
+- I feel my #100DaysOfCode challenge becoming #100DaysOfDevOps 😵😵.
+
+**ToDos**:
+- Add project documentation.
+  * Project Description.
+  * API Endpoints (Maybe add Swagger).
+- Add `docker-compose` file for local development.
+- Add Nginx as a revers-proxy for production (With SSL).
+- Add Functional/Integration testing.
