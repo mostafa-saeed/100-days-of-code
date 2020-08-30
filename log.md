@@ -387,3 +387,10 @@
 - Add `docker-compose` file for local development.
 - Add Nginx as a revers-proxy for production (With SSL).
 - Add Functional/Integration testing.
+
+
+### Day 39 29th Aug 20
+**Today's Progress**:
+- Started working on Functional testing for the API as a whole.
+- Used hapi.js `server.inject()` function to test each endpoint.
+- Added functional testing for Users & Platforms endpoints.
