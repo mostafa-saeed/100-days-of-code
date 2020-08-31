@@ -394,3 +394,10 @@
 - Started working on Functional testing for the API as a whole.
 - Used hapi.js `server.inject()` function to test each endpoint.
 - Added functional testing for Users & Platforms endpoints.
+
+
+### Day 40 29th Aug 20
+**Today's Progress**:
+- Added functional testing for userPlatforms endpoints.
+- Created `docker-compose` file for local development (Turns out I should access other services using their container name).
+- Started documenting the REST API using Swagger.
