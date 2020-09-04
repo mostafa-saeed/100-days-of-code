@@ -396,8 +396,15 @@
 - Added functional testing for Users & Platforms endpoints.
 
 
-### Day 40 29th Aug 20
+### Day 40 31st Aug 20
 **Today's Progress**:
 - Added functional testing for userPlatforms endpoints.
 - Created `docker-compose` file for local development (Turns out I should access other services using their container name).
 - Started documenting the REST API using Swagger.
+
+
+### Day 41 4th Sep 20
+**Today's Progress**:
+- Finished Swagger documentation and deployed it on Heroku.
+
+**Link**: [Swagger Documentation](https://socialmedia-profiles-connector.herokuapp.com/documentation)
