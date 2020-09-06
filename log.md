@@ -408,3 +408,10 @@
 - Finished Swagger documentation and deployed it on Heroku.
 
 **Link**: [Swagger Documentation](https://socialmedia-profiles-connector.herokuapp.com/documentation)
+
+
+### Day 42 6th Sep 20
+**Today's Progress**:
+- Spent sometime testing the swagger documentation and found that some endpoints needed the headers validation so I added it. Also updated the userPlatform response and tests.
+
+- I guess the API is ready now and I need to move to the front end part :)
