@@ -413,5 +413,11 @@
 ### Day 42 6th Sep 20
 **Today's Progress**:
 - Spent sometime testing the swagger documentation and found that some endpoints needed the headers validation so I added it. Also updated the userPlatform response and tests.
-
 - I guess the API is ready now and I need to move to the front end part :)
+
+
+### Day 43 7th Sep 20
+**Today's Progress**:
+- Installed vue Cli on my machine and created the skeleton for the frontend application.
+- Setup the environment for development and staging.
+- I'm still not sure where should I start with the UI.
