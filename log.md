@@ -421,3 +421,9 @@
 - Installed vue Cli on my machine and created the skeleton for the frontend application.
 - Setup the environment for development and staging.
 - I'm still not sure where should I start with the UI.
+
+
+### Day 44 8th Sep 20
+**Today's Progress**:
+- Worked on the UI of the application. I guess now I have an idea of how I'm going to create my components.
+- I will be using Material Design so I plan to use 'Vue material' framework.
