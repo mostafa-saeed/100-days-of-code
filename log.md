@@ -433,3 +433,13 @@
 **Today's Progress**:
 - Added login & register components.
 - Added API service using Fetch API.
+
+
+### Day 46 10th Sep 20
+**Today's Progress**:
+- Started working on Scanner component.
+- Added reading QR Code from uploaded file.
+- Added reading QR Code from camera.
+
+**Link**: [SocialMedia-Profiles-Connector-FrontEnd](https://socialmedia-profiles-connector.netlify.app)
+
