@@ -443,3 +443,8 @@
 
 **Link**: [SocialMedia-Profiles-Connector-FrontEnd](https://socialmedia-profiles-connector.netlify.app)
 
+
+### Day 47 11th Sep 20
+**Today's Progress**:
+- Added the ability to select the default camera for scanning the QR.
+- The code needs some enhancements 😪😪
