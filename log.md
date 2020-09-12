@@ -448,3 +448,10 @@
 **Today's Progress**:
 - Added the ability to select the default camera for scanning the QR.
 - The code needs some enhancements 😪😪
+
+
+### Day 48 12th Sep 20
+**Today's Progress**:
+- Enhanced Scanner component code.
+- Added camera permission check.
+- Added stop camera button.
