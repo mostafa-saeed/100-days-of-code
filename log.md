@@ -455,3 +455,9 @@
 - Enhanced Scanner component code.
 - Added camera permission check.
 - Added stop camera button.
+
+
+### Day 49 13th Sep 20
+**Today's Progress**:
+- Added auto detect QR for the scanner (It basically takes a frame every .5 second and checks if it has a QR code).
+- Added some alerts for showing output and error handling.
