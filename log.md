@@ -461,3 +461,9 @@
 **Today's Progress**:
 - Added auto detect QR for the scanner (It basically takes a frame every .5 second and checks if it has a QR code).
 - Added some alerts for showing output and error handling.
+
+
+### Day 50 14th Sep 20
+- Added users' profile component (It's just an already created component but I added some code to reuse it when the user is logged in).
+- Separated authentication code so it can be testable. 
+- Updated login & registration logic.
