@@ -467,3 +467,7 @@
 - Added users' profile component (It's just an already created component but I added some code to reuse it when the user is logged in).
 - Separated authentication code so it can be testable. 
 - Updated login & registration logic.
+
+
+### Day 51 15th Sep 20
+- Started working on UI using vuematerial.
