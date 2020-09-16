@@ -464,10 +464,19 @@
 
 
 ### Day 50 14th Sep 20
+**Today's Progress**:
 - Added users' profile component (It's just an already created component but I added some code to reuse it when the user is logged in).
 - Separated authentication code so it can be testable. 
 - Updated login & registration logic.
 
 
 ### Day 51 15th Sep 20
-- Started working on UI using vuematerial.
+**Today's Progress**:
+- Started working on the UI using vuematerial.
+
+
+### Day 52 16th Sep 20
+**Today's Progress**:
+- Worked on the Scanner component UI.
+- Updated menu links visibility.
+- Had issues with vuematerial input validation and ended with downgrading the version in my application.
