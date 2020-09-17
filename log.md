@@ -480,3 +480,9 @@
 - Worked on the Scanner component UI.
 - Updated menu links visibility.
 - Had issues with vuematerial input validation and ended with downgrading the version in my application.
+
+
+### Day 53 17th Sep 20
+**Today's Progress**:
+- Used vuetifyjs instead of vue material.
+- Added netlify router for SPAs.
