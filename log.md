@@ -486,3 +486,9 @@
 **Today's Progress**:
 - Used vuetifyjs instead of vue material.
 - Added netlify router for SPAs.
+
+
+### Day 54 19th Sep 20
+- Added login & register validations rules and a progress bar to indicate the AJAX request.
+- Updated app layout and separated sidebar into a new component (Had an issue after doing that 😅).
+- Added darkMode button (The state is stored in localStorage to have the same setting).
